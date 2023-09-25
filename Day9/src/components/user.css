@@ -1,0 +1,41 @@
+#addform{
+    margin-top: -1cm;
+}
+
+label[for="name"] {
+    padding-right: 1ch;
+  }
+label[for="email"] {
+    padding-right: 5ch;
+  }
+label[for="password"] {
+    padding-right: 2ch;
+  }
+
+.list{
+    margin-top: -3cm;
+    height:fit-content;
+    width:fit-content;
+    border: 1px solid;
+    border-color: black;
+    background-color: rgba(97, 14, 14, 0.623);
+}
+
+#tle{
+    margin-top: -0.5cm;
+    color: black;
+    
+}
+
+th{
+    padding: 1cm;
+    color: black;
+}
+
+#table{
+    margin-top: -1cm;
+}
+
+#b{
+    background-color: rgba(165, 42, 42, 0);
+}

@@ -1,0 +1,40 @@
+.home {
+    background-image: url('home.jpg'); 
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 1;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+
+#quote{
+    font-family:initial;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#reg{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#t2{
+    margin-top: 2%;
+    font-size: 50px;
+    color: brown;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    color: brown;
+}
+.dashboard{
+    margin-top: 10%;
+}
+
+.footer{
+    margin-top: 6cm;
+}
