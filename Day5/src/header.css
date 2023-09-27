@@ -1,0 +1,53 @@
+.header{
+    background-color: rgba(97, 14, 14, 0.623);
+    display: fixed;
+    justify-content: space-between;
+    width:100%;
+}
+
+.opp{
+    margin-top: 15px;
+    margin-left: 18cm;
+}
+
+#home{
+    font-size: 20px;
+    padding: 0.5cm;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+
+#contact{
+    font-size: 20px;
+    padding: 0.5cm;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+
+#aboutus{
+    font-size: 20px;
+    padding: 0.5cm;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+
+#organ{
+    font-size: 20px;
+    padding: 0.5cm;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+
+#article{
+    font-size: 20px;
+    padding: 0.5cm;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+
+#signout{
+    font-size: 20px;
+    padding: 0.5cm;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
