@@ -1,0 +1,55 @@
+/* DonorForm.css */
+
+.donor{
+    background-image: url('donor1.jpg'); 
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 1;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+/* Style the form container */
+.donor-form-container {
+    background-color: #f0f0f0; /* Set your desired background color */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Style form elements (labels and inputs) */
+  .donor-form-container label {
+    font-weight: bold;
+  }
+  
+  .donor-form-container input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+  }
+  
+  /* Style the submit button */
+  .donor-form-container button {
+    background-color: #007bff; /* Set your desired button color */
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .donor-form-container button:hover {
+    background-color: #0056b3; /* Change color on hover */
+  }
+  
+  #contactNumber{
+    margin-left: 1cm;
+  }
